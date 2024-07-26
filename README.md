@@ -1,4 +1,3 @@
-```markdown
 # **Creating Multi Task Models With Keras**
 
 **Author:** Dr. Ronny Guendel  
@@ -35,4 +34,4 @@ I used Anaconda Jupyter Notebook, but Google Colab can also be used.
 ## **Acknowledgement**
 
 - **The Coursera Guided Project** [Creating Multi Task Models With Keras](https://www.coursera.org/projects/multi-task-models-keras)
-```
+
