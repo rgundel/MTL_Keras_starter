@@ -1,37 +1,43 @@
-# **Creating Multi Task Models With Keras**
+# Creating Multi-Task Models with Keras
 
 **Author:** Dr. Ronny Guendel  
 **Date:** 26th July '24
 
-## **About The Project**
+---
 
-A Keras and TensorFlow library is used to build a deep neural network for creating a multi-task model. The model is designed to detect two features simultaneously from a photo: the number and the predominant color. The MNIST dataset for this project.
+## Project Overview
 
-It was used with Google Colab but can also be used with jupyter notebook but the Tensorboard might make trouble there.
+In this project, we utilize Keras and TensorFlow to build a deep neural network capable of multi-task learning. The model is designed to identify two features simultaneously from an image: the number and the predominant color. We use the MNIST dataset for training and evaluation. The project can be executed in Google Colab or Jupyter Notebook, with a caution that TensorBoard might present issues in some environments.
 
-## **Visual Representation**
+---
 
-**Here, the image contains some noise and a predominant color.**
+## Visual Examples
 
-![Number 3](./fig/num_3.png)
-<br>
+### Example 1: Number 3 with Noise
+![Number 3](https://github.com/rgundel/MTL_Keras_starterfig/num_3.png?raw=true)
 
-![Number 7](./fig/num_7.png)
+### Example 2: Number 7 with Noise
+![Number 7](https://github.com/rgundel/MTL_Keras_starterfig/num_7.png?raw=true)
 
-## **Model Architecture**
+---
 
-**The image below represents the architecture as well as the flow of the deep neural network.**
+## Model Design
 
+The following diagram illustrates the architecture and flow of the deep neural network used in this project:
 
-![Model](./fig/model.png)
+![Model Architecture](https://github.com/rgundel/MTL_Keras_starterfig/model.png?raw=true)
 
-## **Model Prediction**
+---
 
-**Here are some sample images predicted by the model.**
+## Prediction Samples
 
-![prediction](./fig/prediction_numbers.png)
+Here are some sample predictions made by the model:
 
-## **Acknowledgement**
+![Predictions](https://github.com/rgundel/MTL_Keras_starterfig/prediction_numbers.png?raw=true)
 
-- **The Coursera Guided Project** [Creating Multi Task Models With Keras](https://www.coursera.org/projects/multi-task-models-keras)
+---
 
+## Acknowledgements
+
+Special thanks to the Coursera Guided Project for the foundation and inspiration:  
+[Creating Multi-Task Models with Keras](https://www.coursera.org/projects/multi-task-models-keras)
