@@ -2,7 +2,7 @@
 # **Creating Multi Task Models With Keras**
 
 **Author:** Dr. Ronny Guendel  
-**Date:** [Insert Today's Date]
+**Date:** 26th July '24
 
 ## **About The Project**
 
