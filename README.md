@@ -13,23 +13,23 @@ I used Anaconda Jupyter Notebook, but Google Colab can also be used.
 
 **Here, the image contains some noise and a predominant color.**
 
-![](https://github.com/rgundel/MTL_Keras_starterfig/num_3.png?raw=true)
+![](https://github.com/rgundel/MTL_Keras_starter/fig/num_3.png?raw=true)
 
 <br>
 
-![](https://github.com/rgundel/MTL_Keras_starterfig/num_7.png?raw=true)
+![](https://github.com/rgundel/MTL_Keras_starter/fig/num_7.png?raw=true)
 
 ## **Model Architecture**
 
 **The image below represents the architecture as well as the flow of the deep neural network.**
 
-![](https://github.com/rgundel/MTL_Keras_starterfig/model.png?raw=true)
+![](https://github.com/rgundel/MTL_Keras_starter/fig/model.png?raw=true)
 
 ## **Model Prediction**
 
 **Here are some sample images predicted by the model.**
 
-![](https://github.com/rgundel/MTL_Keras_starterfig/prediction_numbers.png?raw=true)
+![](https://github.com/rgundel/MTL_Keras_starter/fig/prediction_numbers.png?raw=true)
 
 ## **Acknowledgement**
 
