@@ -14,10 +14,10 @@ In this project, we utilize Keras and TensorFlow to build a deep neural network 
 ## Visual Examples
 
 ### Example 1: Number 3 with Noise
-![Number 3](https://github.com/rgundel/MTL_Keras_starterfig/num_3.png?raw=true)
+![Number 3](./fig/num_3.png?raw=true)
 
 ### Example 2: Number 7 with Noise
-![Number 7](https://github.com/rgundel/MTL_Keras_starterfig/num_7.png?raw=true)
+![Number 7](./fig/num_7.png?raw=true)
 
 ---
 
@@ -25,7 +25,7 @@ In this project, we utilize Keras and TensorFlow to build a deep neural network 
 
 The following diagram illustrates the architecture and flow of the deep neural network used in this project:
 
-![Model Architecture](https://github.com/rgundel/MTL_Keras_starterfig/model.png?raw=true)
+![Model Architecture](./fig/model.png?raw=true)
 
 ---
 
@@ -33,7 +33,7 @@ The following diagram illustrates the architecture and flow of the deep neural n
 
 Here are some sample predictions made by the model:
 
-![Predictions](https://github.com/rgundel/MTL_Keras_starterfig/prediction_numbers.png?raw=true)
+![Predictions](./fig/prediction_numbers.png?raw=true)
 
 ---
 
