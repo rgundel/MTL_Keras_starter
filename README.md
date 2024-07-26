@@ -5,31 +5,31 @@
 
 ## **About The Project**
 
-I used the Keras and TensorFlow libraries to build a deep neural network for creating a multi-task model. The model is designed to detect two features simultaneously from a photo: the number and the predominant color. We used the MNIST dataset for this project.
+A Keras and TensorFlow library is used to build a deep neural network for creating a multi-task model. The model is designed to detect two features simultaneously from a photo: the number and the predominant color. The MNIST dataset for this project.
 
-I used Anaconda Jupyter Notebook, but Google Colab can also be used.
+It was used with Google Colab but can also be used with jupyter notebook but the Tensorboard might make trouble there.
 
 ## **Visual Representation**
 
 **Here, the image contains some noise and a predominant color.**
 
-![](https://github.com/rgundel/MTL_Keras_starter/fig/num_3.png?raw=true)
-
+![Number 3](./fig/num_3.png)
 <br>
 
-![](https://github.com/rgundel/MTL_Keras_starter/fig/num_7.png?raw=true)
+![Number 7](./fig/num_7.png)
 
 ## **Model Architecture**
 
 **The image below represents the architecture as well as the flow of the deep neural network.**
 
-![](https://github.com/rgundel/MTL_Keras_starter/fig/model.png?raw=true)
+
+![Model](./fig/model.png)
 
 ## **Model Prediction**
 
 **Here are some sample images predicted by the model.**
 
-![](https://github.com/rgundel/MTL_Keras_starter/fig/prediction_numbers.png?raw=true)
+![prediction](./fig/prediction_numbers.png)
 
 ## **Acknowledgement**
 
